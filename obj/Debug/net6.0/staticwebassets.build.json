@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ibd3M4j7isJ1NotrgBfQckvJP9+TrSlyFOkHvOJFNBk=",
+  "Hash": "xUpl8OqsIwGmEmPjFXa4WF8yBfYn0G04uoX7jzXJ5M8=",
   "Source": "BlogSite",
   "BasePath": "_content/BlogSite",
   "Mode": "Default",
@@ -33949,6 +33949,23 @@
       "OriginalItemSpec": "wwwroot\\vendor\\img\\1swin4qx.r1simages.jfif"
     },
     {
+      "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\aye1zckv.2viimages.jfif",
+      "SourceId": "BlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\",
+      "BasePath": "_content/BlogSite",
+      "RelativePath": "vendor/img/aye1zckv.2viimages.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\img\\aye1zckv.2viimages.jfif"
+    },
+    {
       "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\c3u5rb5x.de4images.jfif",
       "SourceId": "BlogSite",
       "SourceType": "Discovered",
@@ -40273,6 +40290,23 @@
       "OriginalItemSpec": "wwwroot\\vendor\\img\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\izckdl44.ddjimages (1).jfif",
+      "SourceId": "BlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\",
+      "BasePath": "_content/BlogSite",
+      "RelativePath": "vendor/img/izckdl44.ddjimages (1).jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\img\\izckdl44.ddjimages (1).jfif"
+    },
+    {
       "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\mejs-controls.png",
       "SourceId": "BlogSite",
       "SourceType": "Discovered",
@@ -40307,6 +40341,23 @@
       "OriginalItemSpec": "wwwroot\\vendor\\img\\mejs-controls.svg"
     },
     {
+      "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\nllipczv.cftimages (1).jfif",
+      "SourceId": "BlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\",
+      "BasePath": "_content/BlogSite",
+      "RelativePath": "vendor/img/nllipczv.cftimages (1).jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\img\\nllipczv.cftimages (1).jfif"
+    },
+    {
       "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\rdgbimfl.p4yimages.jfif",
       "SourceId": "BlogSite",
       "SourceType": "Discovered",
@@ -40322,6 +40373,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\vendor\\img\\rdgbimfl.p4yimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\tdvzf4ii.d2kimages.jfif",
+      "SourceId": "BlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\",
+      "BasePath": "_content/BlogSite",
+      "RelativePath": "vendor/img/tdvzf4ii.d2kimages.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\img\\tdvzf4ii.d2kimages.jfif"
     },
     {
       "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\ttk2y214.slyimages (1).jfif",
@@ -40341,6 +40409,23 @@
       "OriginalItemSpec": "wwwroot\\vendor\\img\\ttk2y214.slyimages (1).jfif"
     },
     {
+      "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\ulqpqsyt.gruimages.jfif",
+      "SourceId": "BlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\",
+      "BasePath": "_content/BlogSite",
+      "RelativePath": "vendor/img/ulqpqsyt.gruimages.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\img\\ulqpqsyt.gruimages.jfif"
+    },
+    {
       "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\x4worwun.jraimages.jfif",
       "SourceId": "BlogSite",
       "SourceType": "Discovered",
@@ -40356,6 +40441,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\vendor\\img\\x4worwun.jraimages.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\img\\zayn22km.24limages (1).jfif",
+      "SourceId": "BlogSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\",
+      "BasePath": "_content/BlogSite",
+      "RelativePath": "vendor/img/zayn22km.24limages (1).jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\img\\zayn22km.24limages (1).jfif"
     },
     {
       "Identity": "C:\\Users\\Birinci\\Desktop\\BlogSite\\wwwroot\\vendor\\js\\bootstrap.min.js.map",

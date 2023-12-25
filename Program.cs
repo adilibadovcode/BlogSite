@@ -1,6 +1,8 @@
 using BlogSite.Contexts;
 using BlogSite.Helpers;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace BlogSite
 {
@@ -14,8 +16,9 @@ namespace BlogSite
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<BlogContext>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("default"));
             });
+            builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<BlogContext>();
             var app = builder.Build();
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -42,7 +45,7 @@ namespace BlogSite
 
 
             PathConstants.RootPath = builder.Environment.WebRootPath;
-            
+
             app.Run();
         }
     }
